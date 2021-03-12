@@ -1,0 +1,15 @@
+{
+  "name": "shevron-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "High contrast dark pastels",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/numashev/shevron-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
